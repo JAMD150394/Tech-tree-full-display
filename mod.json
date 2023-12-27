@@ -1,0 +1,10 @@
+{
+  "name": "Tech-tree-full-display",
+  "displayName": "Tech tree full display\n科技树条件显示",
+  "author": "[red]x[pink]v[blue]x[gray]神[purple]魂",
+  "description": "本MOD为 XVX神魂著作，本人仅代为发布。任何问题与本人无关\n强制覆盖原版科技树UI，无视条件，显示全部！\n妈妈再也不用担心我找不到研究项目了\nMOD官群:621774384",
+  "minGameVersion":136,
+  "main": "xvx.XVXMod",
+  "hidden": true,
+  "version":1.2
+}
